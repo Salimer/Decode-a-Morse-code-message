@@ -15,6 +15,19 @@ def decode_char(morse_code)
   letter.nil? ? "" : letter.upcase
 end
 
+def decode_word(morse_code)
+    decoded_word = ""
+    chars = morse_code.split(" ")
+    chars.each do |char|
+        decoded_word += decode_char(char);
+    end
+    decoded_word
+end
+
+
 # Example usage
-decoded_char = decode_char(".-")
-puts decoded_char
+char = decode_char(".-")
+puts char
+
+word = decode_word(".- .-")
+puts word
