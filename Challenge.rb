@@ -12,7 +12,7 @@ $morse_letters = {
 
 def decode_char(morse_code)
   letter = $morse_letters[morse_code]
-  letter.nil? ? "" : letter.upcase
+  letter
 end
 
 def decode_word(morse_code)
@@ -29,5 +29,8 @@ end
 char = decode_char(".-")
 puts char
 
-word = decode_word(".- .-")
+word = decode_word("-- -.--")
 puts word
+
+message = decode_message(".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...")
+puts message
