@@ -11,7 +11,6 @@
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
   - [👥 Authors ](#-authors-)
-    - [Author:](#author)
   - [🤝 Contributing ](#-contributing-)
   - [👋 Show your support ](#-show-your-support-)
   - [🔭Acknowledgments ](#acknowledgments-)
@@ -84,8 +83,6 @@ No tests here...
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-### Author:
 
 👤 **Salim Bamahfoodh**
 
