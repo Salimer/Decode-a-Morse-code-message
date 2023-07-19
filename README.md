@@ -89,7 +89,7 @@ No tests here...
 
 👤 **Salim Bamahfoodh**
 
-- GitHub: [@githubhandle](https://github.com/Salimer)
+- GitHub: [@Salimer](https://github.com/Salimer)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/sbamahfoodh)
 
 👤 **Foga Amos**
