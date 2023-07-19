@@ -1,4 +1,4 @@
-`AllCops:
+AllCops:
   NewCops: enable
   Exclude:
     - "Guardfile"
@@ -18,7 +18,6 @@ Metrics/ClassLength:
 Metrics/BlockLength:
   IgnoredMethods: ['describe']
   Max: 30
-
 
 Style/Documentation:
   Enabled: false
