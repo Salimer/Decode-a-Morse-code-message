@@ -91,6 +91,11 @@ No tests here...
 
 - GitHub: [@githubhandle](https://github.com/Salimer)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/sbamahfoodh)
+
+👤 **Foga Amos**
+
+- GitHub: [@katfogy](https://github.com/katfogy)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/foga-amos-2b5371103/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
